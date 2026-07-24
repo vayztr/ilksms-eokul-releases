@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/vatanyazilim/ilksms-eokul-releases/releases/latest">
-    <img src="https://img.shields.io/badge/⬇%20Windows%20için%20İndir-F2820C?style=for-the-badge&logo=windows&logoColor=white" alt="Windows için İndir" />
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Windows%20i%C3%A7in%20%C4%B0ndir-F2820C?style=for-the-badge&logo=windows&logoColor=white" alt="Windows için İndir" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/vatanyazilim/ilksms-eokul-releases?label=Son%20Sürüm&color=F2820C" alt="Son Sürüm" />
-  <img src="https://img.shields.io/github/release-date/vatanyazilim/ilksms-eokul-releases?label=Yayın&color=8B8377" alt="Yayın Tarihi" />
-  <img src="https://img.shields.io/github/downloads/vatanyazilim/ilksms-eokul-releases/total?label=İndirme&color=F2820C" alt="Toplam İndirme" />
+  <img src="https://img.shields.io/github/v/release/vatanyazilim/ilksms-eokul-releases?label=Son%20S%C3%BCr%C3%BCm&color=F2820C" alt="Son Sürüm" />
+  <img src="https://img.shields.io/github/release-date/vatanyazilim/ilksms-eokul-releases?label=Yay%C4%B1n&color=8B8377" alt="Yayın Tarihi" />
+  <img src="https://img.shields.io/github/downloads/vatanyazilim/ilksms-eokul-releases/total?label=%C4%B0ndirme&color=F2820C" alt="Toplam İndirme" />
   <img src="https://img.shields.io/badge/Platform-Windows-8B8377" alt="Windows" />
 </p>
 
